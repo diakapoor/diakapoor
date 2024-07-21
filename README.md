@@ -30,7 +30,7 @@ I am a final-year Bachelor of Commerce student with a strong focus on financial 
   - Prepared dashboards for managerial decisions relating to working capital and fund sourcing
 
 ## Mission 
-To continually learn and grow in the feilds of finance, economics and analytics.
+Continuously develop expertise in finance, economics, and analytics to generate data-driven solutions and strategic insights.
 
 
 <!--
