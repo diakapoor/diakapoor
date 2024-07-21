@@ -8,14 +8,17 @@ I am a final-year Bachelor of Commerce student with a strong focus on financial 
 
 ## Skills 
 - Programming : Python, R, SQL
-- Data Analytics : Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning : Scikit-Learn, TensorFlow
+- Data Analytics : Pandas, NumPy, Matplotlib, Seaborn, Excel
+- Statistical Analysis : SPSS
+- Data Visualisation : PowerBI, Tableau, Orange
 - Finance & Accounting : Financial Statement Analysis, Ratio Analysis and Technial Analysis
 
 ## Education
 - Bcom in Financial Analytics (Final Year)
   - GPA : 3.5/4.0
   - Courses : Excel Fundamentals, Python for financial analytics, Cost and Managerial Accounting.
+- Sacred Heart Convent School (2022)
+- Delhi Public School (2020
 
 ## Experience
 - Intern at Bajaj Fianace Limited
