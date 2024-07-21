@@ -1,7 +1,7 @@
 # Dia Kapoor's Github Profile
 ## Greatings! I am Dia Kapoor
 
-I am a final-year Bachelor of Commerce student with a strong focus on financial analytics. My academic pursuits are driven by a deep interest in various disciplines within finance, including forensic accounting, economics and financial technology. My studies have also fostered a passion for data analytics and equity research.
+I am a final-year Bachelor of Commerce student with a strong focus on financial analytics. My academic pursuits are driven by a deep interest in various disciplines within finance, including forensic accounting, economics and financial technology. My studies have also fostered a passion for data analytics, fraud detection, risk management and equity research.
 
 ## Current Project
 - Forensic Accounting: Developing models to detect financial fraud using machine learning techniques.
