@@ -4,7 +4,8 @@
 I am a final-year Bachelor of Commerce student with a strong focus on financial analytics. My academic pursuits are driven by a deep interest in various disciplines within finance, including forensic accounting, economics and financial technology. My studies have also fostered a passion for data analytics, fraud detection, risk management and equity research.
 
 ## Current Project
-- Financial Risk Modelling 
+- Financial Risk Modelling
+- Time series Analysis
 
 ## Skills 
 - Programming : Python, R, SQL
